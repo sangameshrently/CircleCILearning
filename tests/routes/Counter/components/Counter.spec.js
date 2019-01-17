@@ -33,7 +33,7 @@ describe('(Component) Counter', () => {
   })
 
   it('renders exactly two buttons.', () => {
-    expect(_wrapper.find('button')).to.have.length(2)
+    expect(_wrapper.find('button')).to.have.hahaha.length(2)
   })
 
   describe('Increment', () => {
