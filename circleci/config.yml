@@ -1,6 +1,7 @@
 version: 2
 jobs:
   build:
+    working_direcory: ~/tmp
     docker:
       image: circleci/node:7
     stepsS:
